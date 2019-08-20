@@ -1,7 +1,9 @@
 # Lidemy 鋰學院討論區
 
 Hi,
-這邊是 [Lidemy 鋰學院]()的討論區，有什麼問題都可以在這邊發問，發問前建議先看過[提問的智慧](https://www.gitbook.com/book/ryanhanwu/how-to-ask-questions-the-smart-way/details)。在這裡，你有任何跟程式或是跟作業有關的問題都可以提問。
+這邊是 Lidemy 鋰學院的討論區，有什麼問題都可以在這邊發問，發問前建議先看過[提問的智慧](https://www.gitbook.com/book/ryanhanwu/how-to-ask-questions-the-smart-way/details)。在這裡，你有任何跟程式或是跟作業有關的問題都可以提問。
+
+如果你比較習慣用臉書，也可以加入[臉書上的討論區](https://www.facebook.com/groups/387527151806748/)。
 
 不用害怕問題很蠢，說不定你的問題也是其他人的問題。在這裡，沒有任何問題是不值得被提出來的，但唯一要注意的是：在提問之前，務必自己先找過答案。當你確定你找不出答案，或是根本連怎麼找答案都不知道的時候，再來這邊提問。
 
